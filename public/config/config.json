@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x2d09bbbb8c815c099427f8f73ff8bff8ef48f9f8",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x2d09bbbb8c815c099427f8f73ff8bff8ef48f9f8",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Final Test Last",
+  "SYMBOL": "FTL",
+  "MAX_SUPPLY": 200,
+  "WEI_COST": 1000000000000000,
+  "DISPLAY_COST": 0.001,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/final-test-last",
+  "SHOW_BACKGROUND": true
+}
